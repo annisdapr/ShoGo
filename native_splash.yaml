@@ -1,0 +1,14 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  background_image: "assets/bground.png"
+  image: "assets/shogo.png"
+
+  background_image_dark: "assets/bground_night.png"
+  image_dark: "assets/shogo_night.png"
+
+  android_12:
+    color: "#ffffff"
+    image: "assets/shogo.png"
